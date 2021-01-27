@@ -13,8 +13,9 @@ Description: Bonus Challenge Big Data
 ## Answer
  
 1. Capulet spoke 34 times
-1. 
-## Process to finish this assignment: 
+1. Montague spoke 13 times
+
+## Process to finish this assignment 
 
 ### Commands
 
@@ -23,3 +24,5 @@ Description: Bonus Challenge Big Data
 - ```tr ' ' '\12' < data.txt | sort | uniq -c | sort -nr | result.txt```
 
 - ```grep -c "CAPULET" result.txt```
+
+- ```grep -c "MONTAGUE" result.txt```
