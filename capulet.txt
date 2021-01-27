@@ -1,7 +1,3 @@
-     45 CAPULET</b></a>
-     11 CAPULET,
-      7 CAPULET
-      6 CAPULET</i></p>
       4 NAME=speech7><b>CAPULET</b></a>
       3 NAME=speech9><b>CAPULET</b></a>
       3 NAME=speech5><b>CAPULET</b></a>

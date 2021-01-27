@@ -1,8 +1,4 @@
-      3 MONTAGUE,
-      3 MONTAGUE
       2 NAME=speech52><b>MONTAGUE</b></a>
-      2 MONTAGUE</i></p>
-      2 MONTAGUE</b></a>
       1 NAME=speech63><b>MONTAGUE</b></a>
       1 NAME=speech62><b>MONTAGUE</b></a>
       1 NAME=speech60><b>MONTAGUE</b></a>
